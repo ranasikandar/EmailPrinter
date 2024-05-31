@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailPrinter", "EmailPrinter\EmailPrinter.csproj", "{A700637C-D250-4420-A34D-3C635EA7EAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A700637C-D250-4420-A34D-3C635EA7EAFB}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{A700637C-D250-4420-A34D-3C635EA7EAFB}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{A700637C-D250-4420-A34D-3C635EA7EAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A700637C-D250-4420-A34D-3C635EA7EAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A700637C-D250-4420-A34D-3C635EA7EAFB}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{A700637C-D250-4420-A34D-3C635EA7EAFB}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{A700637C-D250-4420-A34D-3C635EA7EAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A700637C-D250-4420-A34D-3C635EA7EAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A700637C-D250-4420-A34D-3C635EA7EAFB}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{A700637C-D250-4420-A34D-3C635EA7EAFB}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6302ED7B-4989-4BC7-B48F-620C05EFD4C6}
+	EndGlobalSection
+EndGlobal
